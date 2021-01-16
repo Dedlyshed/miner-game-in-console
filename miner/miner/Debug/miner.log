@@ -1,0 +1,6 @@
+﻿  miner.cpp
+C:\Users\lyosh\source\repos\miner\miner\miner.cpp(23,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lyosh\source\repos\miner\miner\miner.cpp(109,18): warning C4244: =: преобразование "time_t" в "int", возможна потеря данных
+C:\Users\lyosh\source\repos\miner\miner\miner.cpp(118,18): warning C4244: =: преобразование "time_t" в "int", возможна потеря данных
+C:\Users\lyosh\source\repos\miner\miner\miner.cpp(159,19): warning C4244: =: преобразование "time_t" в "int", возможна потеря данных
+  miner.vcxproj -> C:\Users\lyosh\source\repos\miner\Debug\miner.exe
